@@ -55,7 +55,7 @@ bash <(curl -sL kejilion.sh)#建议快捷命令改为 i
   - [v2rayNG](https://github.com/2dust/v2rayNG/releases)(安卓设备首选)
   - [Clash-Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
   - [v2rayN](https://github.com/2dust/v2rayN/releases)(Win电脑PC端)
-
+  - [wraeguaid](https://www.wireguard.com/install/)
 - 实用网站推荐：
     - [libretv-自建影视](https://053312d1.libretv-edb.pages.dev/)进入密码:123
     - [磁力熊](https://www.cilixiong.org/)也是影视！
